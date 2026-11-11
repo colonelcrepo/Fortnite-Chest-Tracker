@@ -79,7 +79,7 @@ This is a free, open-source project that I plan on continuing to improve.
 
 If you find it useful and want to support development, you can leave a donation through Ko-fi. It's completely optional but appreciated!
 
-**[Support me on Ko-fi](https://ko-fi.com/colonelc)**
+**[Support me on Ko-fi](https://ko-fi.com/colonelc))**
 
 ## Disclaimer
 
